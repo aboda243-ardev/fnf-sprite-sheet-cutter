@@ -1,0 +1,13 @@
+Sorry Mac users.. I don't have a version for you :(
+
+If you are a Mac user you need to work a little bit :)
+
+First, go to "source-code" folder and open it in terminal.
+
+Second, excute this command : "pyinstaller convert.py --onefile".
+
+Finally, a folder called "dist" should be created in the same folder contains the excutable.
+
+Notice: you should install the needed libraries by excuting this command : "pip3 install (name of library)"
+The needed libraries : Pillow, lxml, os, bs4, re, pyinstaller
+you should already have python :)
